@@ -1,0 +1,2 @@
+# NewsToday
+Simple API 
