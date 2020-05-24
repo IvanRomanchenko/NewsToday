@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85905dee-dcd3-48b3-b8e0-a520a91168aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cHBM93UKb84taAOuMtG0ONxIKU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/newsList" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Иван Иваныч\Desktop\NewsToday\newsList" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85905dee-dcd3-48b3-b8e0-a520a91168aa" name="Default Changelist" comment="" />
+      <created>1590175587477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590175587477</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="258" key="#com.intellij.tools.ToolEditorDialog" timestamp="1590175867310">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="568" y="258" key="#com.intellij.tools.ToolEditorDialog/0.0.1600.860@0.0.1600.860" timestamp="1590175867310" />
+    <state x="579" y="43" key="SettingsEditor" timestamp="1590176980116">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="579" y="43" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1590176980116" />
+    <state x="864" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1590336603196">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="864" y="256" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1590336603196" />
+  </component>
+</project>
